@@ -12,7 +12,11 @@ sh init_dir.sh
 
 ## Step Two
 
-Prepare the data
+Save the NYT dataset as ```NYT_annotated``` in the directory. Run the following command
+
+```
+python get_nyt_data
+```
 
 ## Step Three
 
