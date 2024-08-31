@@ -1,4 +1,29 @@
 # CALLMSAE
 Cascading Large Language Models for Salient Event Graph Generation (preprint)
 
-Experimental code and training data are coming soon
+
+## Step One
+
+Initialize the directories
+
+```
+sh init_dir.sh
+```
+
+## Step Two
+
+Prepare the data
+
+## Step Three
+
+```
+python get_salient_events.py
+```
+
+## Step Four
+
+```
+python event_relation_prompting.py
+```
+
+Data preprocess code and training data are coming soon
