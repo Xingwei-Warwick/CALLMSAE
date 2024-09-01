@@ -1,5 +1,7 @@
 mkdir raw_data
 
+mkdir data_stats
+
 mkdir summary
 
 mkdir iterative_outputs

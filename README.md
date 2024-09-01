@@ -30,4 +30,4 @@ python get_salient_events.py
 python event_relation_prompting.py
 ```
 
-Data preprocess code and training data are coming soon
+Finetuning code and training data are coming soon
